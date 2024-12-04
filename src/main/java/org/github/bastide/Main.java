@@ -17,5 +17,6 @@ public class Main {
             System.out.println("i = " + i);
             System.out.println("SALUT C'EST JOEY NUMERO " + i);
         }
+        System.out.println("conflit de Joey");
     }
 }
